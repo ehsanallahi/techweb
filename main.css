@@ -1,0 +1,28 @@
+/*
+*Main Slider
+*/
+.carousel-item{
+    height: 600px;
+}
+/*
+*Services Section Styling
+*/
+.services-title-text{
+    margin: 0 auto;
+    max-width: 800px;
+}
+.services-col-inner{
+    padding: 20px;
+    border: 1px solid #ededed;
+    border-radius: 10px;
+}
+.service-col img{
+    max-width: 150px;
+    margin-bottom: 10px;
+}
+.service-col h4{
+    font-size: 20px;
+}
+.service-col p{
+    font-size: 14;
+}
